@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Sudo viRus_404</h1>
-<h3 align="center">A Cyber-Security Bypass Researcher and a Malware head</h3>
+<h3 align="center">A Security Bypass Researcher and a Malware head</h3>
 
 
 - 🔭 I’m currently working on **Vulnerability Scanner**

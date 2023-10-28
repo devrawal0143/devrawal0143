@@ -2,7 +2,7 @@
   <img src="https://media.licdn.com/dms/image/D5612AQHn1z2mzlgFNA/article-cover_image-shrink_600_2000/0/1694737578123?e=2147483647&v=beta&t=AC56dhQru9_LsViAX5ODO2cYMMymOTInie7tr5bEV3s" alt="logo">
 </div>
 
-<h1 align="center">Sudo viRus_404</h1>
+<h1 align="center">viRus_404</h1>
 <h3 align="center">A Security Bypass Researcher and a Malware head</h3>
 
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **dev.rawal1703@gmail.com**
 
-- ⚡ Fun fact **I've Hacked you ;)**
+- ⚡ Fun fact **You don't know this but I've Hacked you ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

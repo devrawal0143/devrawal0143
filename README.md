@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **AV-Bypass, Malware, Pen-Testing, Network-Sec**
 
-- 📫 How to reach me **dev.rawal1703@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/dev-rawal/**
 
 - ⚡ Fun fact **You don't know this but I've Hacked you ;)**
 

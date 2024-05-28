@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">sudo rm -rf /*</h1>
-<h3 align="center">A Security Bypass Researcher and a Malware head</h3>
+<h3 align="center">A Security Researcher, Bug Hunter and a Malware head</h3>
 
 
 - 🔭 I’m currently working on **Vulnerability Scanner**

@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/dev-rawal/**
 
-- ⚡ Fun fact **You don't know this but I've Hacked you ;)**
+- ⚡ Fun fact: **What? there's nothing funny here**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
